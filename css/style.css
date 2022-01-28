@@ -1,0 +1,27 @@
+header img[src="logos/logo.png"]{
+    width: 100px;
+    height: 80px;
+}
+header{
+    background-color: #E5FAE9;
+}
+body [href="quienessomos.html"]{
+    color: white;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+form{
+    border: none;
+}
+.jineta{
+    height: 122px;
+}
+.tabla{
+    background-color: #e5fae9;
+}
